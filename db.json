@@ -1,0 +1,14 @@
+[
+  {
+   icon: require('./assets/index.png') , 
+   name:'CHEMISTRY', 
+   details: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'}, 
+  {
+  icon: require('./assets/physics.jpg'), 
+  name:'PHYSICS', 
+  details: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'}, 
+  {
+  icon: require('./assets/history.png'),
+  name: 'HISTORY', 
+  details: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt'}
+];
